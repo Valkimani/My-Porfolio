@@ -4,12 +4,12 @@ body {
 
 .navbar-light .navbar-brand {
   color: rgba(0, 0, 0, 0.9);
-  background-color: teal;
+  background-color: rgb(14, 192, 192);
   color: white;
 }
 
 h1 {
-  color: teal;
+  color: rgb(11, 186, 186);
 }
 
 .mr-auto,
