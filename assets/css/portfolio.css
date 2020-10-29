@@ -1,0 +1,53 @@
+body {
+  background-image: url("https://files.slack.com/files-pri/T018RA60CNP-F01B1RFE933/ignasi_pattern_s.png");
+}
+
+h1 {
+  color: teal;
+}
+
+.navbar-light .navbar-brand {
+  background: teal;
+  color: white;
+}
+
+.mr-auto,
+.mx-auto {
+  margin-right: auto !important;
+}
+
+/*images in the portfolio html.*/
+.squares {
+  float: left;
+  background-color: white;
+  height: 75%;
+  width: 50%;
+  margin-left: 25px;
+}
+
+.form {
+  float: left;
+  background-color: white;
+  height: 75%;
+  width: 800px;
+  margin-left: 25px;
+  padding-bottom: 20px;
+}
+.images {
+  padding-bottom: 25px;
+}
+.text-center {
+  color: grey;
+}
+
+header h1 {
+  margin-left: 18px;
+}
+/*Added media query to the portfolio css.*/
+@media screen and (max-width: 768px) {
+  .form {
+    float: none;
+    width: 90%;
+    margin: 0 auto;
+  }
+}
