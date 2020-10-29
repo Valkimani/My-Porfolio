@@ -29,6 +29,11 @@ as stated below.
 ![Contact](./images/contact.png)
 ![Portfolio](./images/portfolio.png)
 
+1. [Updated Portfolio](#updated-portfolio)
+2. [GitHub Profile](#updated-github-profile)
+3. [Updated Resume](#updated-resume)
+4. [Updated LinkedIn](#updated-linkedin)
+
 - Link to deployed app
   To access the project, please use the links below.
 
